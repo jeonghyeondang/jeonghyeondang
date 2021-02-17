@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Bigquery-092E20?style=flat-square&logo=Bigquery&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/gcp-333664?style=flat-square&logo=googlecloud&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GCP-333664?style=flat-square&logo=googlecloud&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
