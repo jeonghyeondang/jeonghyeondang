@@ -15,7 +15,7 @@
  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23FF6F00.svg?&style=for-the-badge&logo=Kibana&logoColor=white" />
-    <img alt="Power Bi" src="https://img.shields.io/badge/Power-Bi%20-%23FF6F00.svg?&style=for-the-badge&logo=Power-Bi&logoColor=white" />
+    <img alt="Power Bi" src="https://img.shields.io/badge/Power%20Bi%20-%23FF6F00.svg?&style=for-the-badge&logo=Power-Bi&logoColor=white" />
 
 
  
