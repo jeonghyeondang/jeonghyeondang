@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=JohnJeonghyeon%20Dang&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=JohnJeonghyeon%20Dang&fontSize=60)
 
 __<p align="center">KOREAN ENGLISH JAPANESE</p>__
 
