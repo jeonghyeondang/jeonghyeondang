@@ -12,12 +12,13 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  
- <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23FF6F00.svg?&style=for-the-badge&logo=Kibana&logoColor=white" />
-    <img alt="Power Bi" src="https://img.shields.io/badge/Power%20Bi%20-%23FF6F00.svg?&style=for-the-badge&logo=Power-Bi&logoColor=white" />
-
-
+  <img alt="Power Bi" src="https://img.shields.io/badge/Power%20Bi%20-%23FF6F00.svg?&style=for-the-badge&logo=Power-Bi&logoColor=white" />
+  <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn%20-%23FF6F00.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
  
  </p>
 
