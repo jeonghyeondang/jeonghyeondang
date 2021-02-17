@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=new%20wisdom();&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 __<p align="center">KOREAN ENGLISH JAPANESE</p>__
 
@@ -33,5 +33,8 @@ __<p align="center">KOREAN ENGLISH JAPANESE</p>__
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
 
 -->
