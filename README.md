@@ -4,7 +4,7 @@ __<p align="center">KOREAN ENGLISH JAPANESE</p>__
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs Skills </p>
+<p align="center"> 📚 Technology Stack 📚 </p>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp 
