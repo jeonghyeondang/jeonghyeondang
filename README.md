@@ -17,7 +17,7 @@
   <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23FF6F00.svg?&style=for-the-badge&logo=Kibana&logoColor=white" />
   <img alt="Power Bi" src="https://img.shields.io/badge/Power%20Bi%20-%23FF6F00.svg?&style=for-the-badge&logo=Power-Bi&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20learn%20-%23FF6F00.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20learn%20-%23009639.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
   
  
  </p>
