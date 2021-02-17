@@ -2,8 +2,6 @@
 
 __<p align="center">KOREAN ENGLISH JAPANESE</p>__
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
 <h3 align="center"> 📚 Technology Stack 📚 </h3>
 
 <p align="center">
