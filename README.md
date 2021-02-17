@@ -10,7 +10,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp 
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>&nbsp 
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234285F4.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
