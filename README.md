@@ -35,6 +35,4 @@ __<p align="center">KOREAN ENGLISH JAPANESE</p>__
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
-
 -->
