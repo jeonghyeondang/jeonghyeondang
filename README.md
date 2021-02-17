@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JeonghyeonDang&fontSize=70&animation=twinkling)
-<br><br>
-<p align="center">KOREAN ENGLISH JAPANESE</p></h3>
+
+<p align="center">_KOREAN ENGLISH JAPANESE_</p></h3>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
