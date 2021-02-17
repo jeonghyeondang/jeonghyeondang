@@ -14,6 +14,8 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  
  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23FF6F00.svg?&style=for-the-badge&logo=Kibana&logoColor=white" />
+
  
  </p>
 
