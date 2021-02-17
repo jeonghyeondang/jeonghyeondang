@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JeonghyeonDang&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=new%20wisdom();&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 __<p align="center">KOREAN ENGLISH JAPANESE</p>__
 
